@@ -1,7 +1,7 @@
 -- Creation of TAXI table
 CREATE TABLE TAXI (
     Taxi_id INTEGER NOT NULL,
-    Registration_no VARCHAR(20),
+    Registration_no VARCHAR(20), 
     Taxi_Model VARCHAR(20),
     Taxi_Year DATE,
     Taxi_type VARCHAR(20),
