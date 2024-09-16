@@ -1,4 +1,4 @@
-# Taxi-Service-Database-Management-System
+# Taxi Service Database Management System
 ## Project Objective
 The Taxi Service Database Management System is designed to streamline the operations of an inter-city travel service provided by a taxi company. It supports user registration, taxi booking, driver management, billing, and feedback collection, all managed by an administrator. This system aims to enhance the overall user experience and operational efficiency of the taxi company.
 ## Features
