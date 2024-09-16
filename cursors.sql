@@ -3,7 +3,7 @@ DECLARE
     v_registration_no VARCHAR(20);
     CURSOR available_taxis_cursor IS
         SELECT Registration_no FROM TAXI WHERE Status = 'Available';
-BEGIN
+BEGIN 
     OPEN available_taxis_cursor;
     LOOP
         FETCH available_taxis_cursor INTO v_registration_no;
